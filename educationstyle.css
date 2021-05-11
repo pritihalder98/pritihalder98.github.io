@@ -1,0 +1,71 @@
+#progress-container
+	{
+		width:100%;
+		height:5px;
+		background:#a94dff;
+		padding-bottom:5px;
+	}
+#progress-bar
+	{
+		height:5px;
+		background:#420080;
+		width:0%;
+	}
+#upper{
+	position:fixed;
+	top:0;
+	z-index:1;
+	width:100%;
+    }
+#header{
+	background-color:#a94dff;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:30px;
+	font-family:Lucida Handwriting;
+	width:100%;
+	text-align:center;
+	font-size:40px;
+	margin:0;
+}
+#home{
+	float:left;
+	color:black;
+	font-size:30px;
+}
+body{
+	background-color:#e6ccff;
+	font-family:Lucida Handwriting;
+	font-size:17px;
+}
+#table{
+	padding:10px;
+	overflow-x:auto;
+}
+#table-mid{
+	padding:10px;
+	overflow-x:auto;
+}
+	
+#info{
+	line-height:30px;
+	float:right;
+}
+a{
+ 	text-decoration:none;
+	color:black;
+}
+img{
+	border:1px solid #34004d;
+}
+#foot{
+	background-color:#a94dff;
+	text-align: center;
+  	color: black;
+	float:bottom ;
+	padding-bottom:10px;
+	padding-top:10px;
+	font-family:Times New Roman;
+	width:100%;
+	margin:0;
+     }
